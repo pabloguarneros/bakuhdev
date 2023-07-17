@@ -1,9 +1,32 @@
 {
     "name": "Bakuh",
     "summary": [ "A fictional world about nonfictional things." ],
-    "Bakography":{
-        "Interdisciplinary Fields": {
-            "summary": [  "Bakuh is divided into Interdisciplinary Fields." ],
+    "Context":{
+        "Context": "Another name for location, region, or place where concepts interact with each other, forming memories. You might recognize a concept quicker if you are walking through its context.",
+        "Language": "Bakuh's architect. It is known for its expertise using multiple mediums.",
+        "Grammar": "Language's assistant.",
+        "Mediums": "Construction tools.",
+        "Knowledge": "Minerals that form Bakuh."
+    },
+    "Words":{
+        "Glyphs": "Rocks mined at Semiotics.",
+        "Words": "Bricks.",
+        "Punctuation Marks": "Mortar.",
+        "Sentences": "Surfaces constructed from brick.",
+        "Written Documents": "Buildings.",
+        "A concept's name": "The bar soap a concept uses to wash its clothes."
+    },
+    "students":{
+        "students":"The cells inside a concept.",
+        "conception": "A layer between a student's cytoplasm and the concept's extracellular fluid.",
+        "learning": "The movement of cells.",
+        "classification":{
+            "Neuroscientists": "Specialized students that live inside Neuroscience concepts.",
+            "Computer Scientists": "Specialized students that live inside Computer Science concepts."
+        }
+    },
+    "Interdisciplinary Fields":{
+        "summary": [  "Bakuh is divided into Interdisciplinary Fields." ],
             "field_codes":{
                 "003": "Neuroscience",
                 "005": "Epistemology",
@@ -42,34 +65,7 @@
                 "605": "Embryology",
                 "607": "Strategy",
                 "609": "Ecology"
-            }
         },
-        "Context":{
-            "Context": "Another name for location, region, or place where concepts interact with each other, forming memories. You might recognize a concept quicker if you are walking through its context.",
-            "Language": "Bakuh's architect. It is known for its expertise using multiple mediums.",
-            "Grammar": "Language's assistant.",
-            "Mediums": "Construction tools.",
-            "Knowledge": "Minerals that form Bakuh."
-        },
-        "Words":{
-            "Glyphs": "Rocks mined at Semiotics.",
-            "Words": "Bricks.",
-            "Punctuation Marks": "Mortar.",
-            "Sentences": "Surfaces constructed from brick.",
-            "Written Documents": "Buildings.",
-            "A concept's name": "The bar soap a concept uses to wash its clothes."
-        },
-        "students":{
-            "students":"The cells inside a concept.",
-            "conception": "A layer between a student's cytoplasm and the concept's extracellular fluid.",
-            "learning": "The movement of cells.",
-            "classification":{
-                "Neuroscientists": "Specialized students that live inside Neuroscience concepts.",
-                "Computer Scientists": "Specialized students that live inside Computer Science concepts."
-            }
-        }
-    },
-    "Interdisciplinary Fields":{
         "Abstraction":{
             "emblem": "<>",
             "territories":{
@@ -272,7 +268,8 @@
                             ]
                         }
                     ]
-                },
+                }
+            },
             "concepts":{
                 "Branches of Philosophy": {
                     "summary": "Snakes that move through Bakuh classified by the questions they explore. Ontology, Axiology, and Epistemology were named after them.",
@@ -284,55 +281,8 @@
             },
             "places":{
                 "The Ontologies":{
-                    "summary":"An alleyway of murals painted onto brick.",
-                    "Bakuh's ontology":{
-                        "individuals": "concepts",
-                        "classes": "tribes or regions a concept belongs to",
-                        "visual relations":{
-                            "Data": {
-                                "Data": "The fresh water than runs through Bakuh.",
-                                "Information": "The saline water that runs through Bakuh.",
-                                "Evidence": "An irrigation system.",
-                                "Descriptions": "Puddles that form around Bakuh.",
-                                "Claims": "Grass that can be cut to make a brick or can also grow between bricks.",
-                                "Arguments": "Gardens where concepts go on dates, introspect, or live.",
-                                "Insights": "Moments, or memories, where concepts find a connection they didn't know existed."
-                            },
-                            "Explanations":{
-                                "Explanations": "Paths that connect and constitute contexts.",
-                                "Expressions": "A concept's term for a surface.",
-                                "Axioms": "Structures that accepts axial load like a wall, a column, or an arch.",
-                                "Equations": "Alcoves.",
-                                "Semantic Associations": "Another name for a concept's clothes weaved from glial and neuron cells."
-                            },
-                            "Attention":{
-                                "Attention": "Sunlight, or meaning being digested and excreted by time.",
-                                "Distraction": "Heat.",
-                                "Ideas": "Friction created by moving particles.",
-                                "Life": "Spheroid plasma held by self-gravity.",
-                                "What If": "The name concepts use for 'Day.' Rather than 'Once upon a time', concepts sign 'What if...' when telling a story.",
-                                "Imagination": "Ventilation systems.",
-                                "As Is": "The name concepts use for 'Night.'"
-                            },
-                            "Building Blocks":[
-                                "Concepts from Chemistry decided to act like other concepts to stage the Fictional World of Bakuh.",
-                                "Hydrogen is playing a fact in Prolog (e.g., Is(x)).",
-                                "Sodium is playing the role of text.",
-                                "Oxygen is 'x is y' which it regards as crucial for portraying data and information.",
-                                "Carbon is playing '∫f(x)dx' which it needs to paint Ontology and Epistemology.",
-                                "Silicon is Avg(x).",
-                                "Boson is calling itself impulse.",
-                                "Fermion is calling itself propagation",
-                                "Electron volunteered to play time.",
-                                "Photons is playing meaning.",
-                                "Protons is '!=='",
-                                "Neutrons is '=='",
-                                "Carboxylic Acid joined the theater troop to play 'understanding'",
-                                "Aliphatic Chain is playing 'summary' so it can help Carboxylic Acid build a student's lipid bilayer."
-                            ]
-                        }
+                    "summary":"An alleyway of murals painted onto brick."
                     }
-                }
             },
             "stories":[
                 {
@@ -456,8 +406,7 @@
                         ]
                 }
             ]
-        }
-    }, 
+        },
     "Nomadic Concepts":{
         "summary": [ "Bakuh has a few nomadic concepts that travel Bakuh in groups." ],
         "The Habits of Mind and Foundational Concepts": {},
@@ -465,6 +414,49 @@
             "summary":["They originated somewhere between Mathematics, Uncertainty, and Correlation. Now, they are a band of cousins that like to travel together and sleep on trees."],
             "concepts":["Mean", "Standard Deviation", "Range", "Median", "Mode", "Variance", "Standard Error", "Percentile", "Quartile", "Interquartile Range", "Skewness", "Kurtosis"]
         }
-    }
+    },
+    "__":{
+        "Data": {
+            "Data": "The fresh water than runs through Bakuh.",
+            "Information": "The saline water that runs through Bakuh.",
+            "Evidence": "An irrigation system.",
+            "Descriptions": "Puddles that form around Bakuh.",
+            "Claims": "Grass that can be cut to make a brick or can also grow between bricks.",
+            "Arguments": "Gardens where concepts go on dates, introspect, or live.",
+            "Insights": "Moments, or memories, where concepts find a connection they didn't know existed."
+        },
+        "Explanations":{
+            "Explanations": "Paths that connect and constitute contexts.",
+            "Expressions": "A concept's term for a surface.",
+            "Axioms": "Structures that accepts axial load like a wall, a column, or an arch.",
+            "Equations": "Alcoves.",
+            "Semantic Associations": "Another name for a concept's clothes weaved from glial and neuron cells."
+        },
+        "Attention":{
+            "Attention": "Sunlight, or meaning being digested and excreted by time.",
+            "Distraction": "Heat.",
+            "Ideas": "Friction created by moving particles.",
+            "Life": "Spheroid plasma held by self-gravity.",
+            "What If": "The name concepts use for 'Day.' Rather than 'Once upon a time', concepts sign 'What if...' when telling a story.",
+            "Imagination": "Ventilation systems.",
+            "As Is": "The name concepts use for 'Night.'"
+        },
+        "Building Blocks":[
+            "Concepts from Chemistry decided to act like other concepts to stage the Fictional World of Bakuh.",
+            "Hydrogen is playing a fact in Prolog (e.g., Is(x)).",
+            "Sodium is playing the role of text.",
+            "Oxygen is 'x is y' which it regards as crucial for portraying data and information.",
+            "Carbon is playing '∫f(x)dx' which it needs to paint Ontology and Epistemology.",
+            "Silicon is Avg(x).",
+            "Boson is calling itself impulse.",
+            "Fermion is calling itself propagation",
+            "Electron volunteered to play time.",
+            "Photons is playing meaning.",
+            "Protons is '!=='",
+            "Neutrons is '=='",
+            "Carboxylic Acid joined the theater troop to play 'understanding'",
+            "Aliphatic Chain is playing 'summary' so it can help Carboxylic Acid build a student's lipid bilayer."
+            ]
+        }
     }
 }
