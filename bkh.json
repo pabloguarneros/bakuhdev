@@ -13,11 +13,14 @@
         "Words": "Bricks.",
         "Punctuation Marks": "Mortar.",
         "Sentences": "Surfaces constructed from brick.",
-        "Written Documents": "Buildings.",
         "A concept's name": "The bar soap a concept uses to wash its clothes."
     },
     "students":{
-        "students":"The cells inside a concept.",
+        "summary":[
+            "The cells inside a concept are called students.",
+            "A student's plasma membrane stores its current understanding of the concept.",
+            "When a student applies a concept, they synthesize a protein."
+        ],
         "conception": "A layer between a student's cytoplasm and the concept's extracellular fluid.",
         "learning": "The movement of cells.",
         "classification":{
@@ -26,7 +29,11 @@
         }
     },
     "Interdisciplinary Fields":{
-        "summary": [  "Bakuh is divided into Interdisciplinary Fields." ],
+        "summary": [ 
+            "Bakuh is divided into Interdisciplinary Fields.",
+            "Concepts are free to move between Interdisciplinary Fields.",
+            "As concepts travel between fields, the memories they unravel will change what each field is."
+        ],
             "field_codes":{
                 "003": "Neuroscience",
                 "005": "Epistemology",
@@ -70,16 +77,47 @@
             "emblem": "<>",
             "territories":{
                 "Computer Science":{
-                    "towns":{
-                        "Computer Hardware": "A subterranean mining town in Computer Science."
+                    "Computer Hardware": {
+                        "summary": "Computer Hardware is a network of mining shafts that lie below Software Engineering.",
+                        "concepts":{
+                            "computers":{
+                                "summary":[
+                                    "Computers are trees that grow in the mining shafts of Computer Hardware."
+                                ]
+                            }
+                        }
                     },
                     "Software Engineering":{
-                        "summary": [ "A town where algorithms domesticated files." ],
-                        "Specs":"A prophetic rock that leads algorithms on a quest to build a program.",
+                        "summary": [ "A town where algorithms build programs." ],
+                        "programs": {
+                            "summary": [
+                                "Programs are buildings in Software Engineering.",
+                                "Programs can talk to each other.",
+                                "Files live inside programs but programs also welcome external files."
+                            ],
+                            "modules":{
+                                "summary": [
+                                    "Rooms inside a program."
+                                ]
+                            },
+                            "specs":{
+                                "summary":[
+                                    "Schematics to build a program."
+                                ]
+                            },
+                            "repo":{
+                                "summary":[
+                                    "Repos, or repositories, are plots of land where algorithms build their programs.",
+                                    "Some repositories use version control or a type of varnish that stores changes to their program.",
+                                    "Git is a type of varnish that can releport files of the program back through the Git Graph."
+                                ]
+                            }
+                            }
+                        },
                         "concepts":{
                             "Unicode":{
                                 "summary":[
-                                    "Unicode has a library that goes up 16 floors. Each floor in the library is callled a Plane.",
+                                    "Unicode has a library that goes up 16 floors. Each floor in the library is called a Plane.",
                                     "On each floor, there are 16^4 (2^16 or 65536) cubes made of sand.",
                                     "Each cube has a parchment under it with a number writtem in ink. The number has four places for digits where there are 16 possible digits [0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F].",
                                     "The parchment is the code point.",
@@ -87,33 +125,50 @@
                                     "GUIs come to the library to get inspired and come up with their glyph making sure to label their drawings with the appropriate code point."
                                 ]
                             },
-                            "Modules": "A family of algorithms that stored their spell on the same file."
-                        },
-                        "Operating Systems":{
-                            "summary":"Elephants made of sand that roam Computer Science.",
-                            "Linux":"",
-                            "Unix":""
-                        },
-                        "Files":{
-                            "summary": [ "A jellyfish that eats grains of sand called bits." ]
-                        },
-                        "Bit":{
-                            "summary": [
-                                "A short creature made of sand that tends to the sand in the desert like a sheperd tends to sheep.",
-                                "Bit has an alter ego called Byte.",
-                                "Bit was raised in the mines of Computer Hardware. There, it played with HDDs, hopping from one transistor to the other and changing the transistor's magnetic field."
-                            ]
-                        },
-                        "Data Types":{
-                            "summary": [ "Deities worshiped in Computer Science. Some Programming Languages respect different deities." ]
+                            "Operating Systems":{
+                                "summary": [
+                                    "Elephants made of sand that roam Computer Science.",
+                                    "Operating systems connect the surface of Software Engineering to the components of Hardware.",
+                                    "Each operating system lives as a program constructed by similar algorithms.",
+                                    "The kernel is the basement of an operating system. Its lights are always on.",
+                                    "As elephants, operating systems have CLIs or GUIs that live in their microbiome and interact with their cells.",
+                                    "An operating system helps files find their place on a Hardware device."
+                             ]
+                            },
+                            "Files":{
+                                "summary": [
+                                    "Files are jellyfish that float over the desert.",
+                                    "A source file looks like a jellyfish in its polyp stage.",
+                                    "When a source file starts its compiliation phase, it generates an object file that looks similar to a polyp splitting into a strobila.",
+                                    "An executable file arises from the strobila, entering its free-swimming life cycle."
+                                ]
+                            },
+                            "Bit":{
+                                "summary": [
+                                    "A short creature made of sand that tends to the sand in the desert like a sheperd tends to sheep.",
+                                    "Bit has an alter ego called Byte.",
+                                    "Bit was raised in the mines of Computer Hardware. There, it played with HDDs. Bit used to skate through the data connector, blast from the actuator to hold onto the write head and let go, diving into a pool of magnetic domains that lay on a spinning disk."
+                                ]
+                            },
+                            "Data Types":{
+                                "summary": [ "Deities worshiped in Computer Science. Some programming languages respect different deities." ]
+                            }
                         }
                     },
                     "tribes":{
                         "Programming Languages":{
-                            "summary": [ "A group of modules that agreed on a form of casting spells." ]
+                            "summary": [
+                                "A group of modules that agreed on a form of casting spells.",
+                                "Each programming language founded a town for other modules to live.",
+                                "Programming Languages, like Prolog or Python, became villages in the desert."
+                            ]
                         }
                     }
-                    }
+                },
+                "terminology":{
+                    "abstraction layer": "A word concepts in Computer Science use to describe what can and can't be seen. Things said to be in the abstraction layer can be hidden.",
+                    "upstream/downstream dependencies":"Upstream and downstream dependencies are words used to convey lineage between concepts in Bakuh."
+                }
             }
         },
         "Politics":{
@@ -277,6 +332,11 @@
                     "axiology": "A snake with scales made from diamonds that is normally found exploring questions about value.",
                     "epistemology": "A snake with scales from graphite that is normally found exploring questions about knowledge."
                 },
+                "knowledge systems":{
+                    "summary":[
+                        "Besides telling them what to study, knowledge systems teach concepts how to behave with other concepts."
+                    ]
+                },
                 "senses": "A classification for how organisms perceive the motion of particles."
             },
             "places":{
@@ -340,26 +400,61 @@
                     "concepts":{
                         "History":{
                             "summary":[
-                                "The dragon that is often recalled but never remembered.",
-                                "History has a lake inside it called The Lake of Isms.",
+                                "Concepts call history 'The dragon who gets recalled but can’t be remembered.'",
+                                "History has a lake inside it called Isms.",
                                 "History is made out of a cross section of tree boles, amber, and sediment layers.",
                                 "History has a research center dedicated to the study of a concept's cells.",
-                                "Within History, there is an alley of wooden houses called Historical Events."
-                            ]
+                                "Within History, there is an alley of wooden houses called Historical Events.",
+                                "History has two eyes: Historicity 1 and Historicity 2."
+                            ],
+                            "concepts":{
+                                "historical methodologies":{
+                                    "summary":[
+                                        "historical methodologies try to understand how History works.",
+                                        "historical methodologies tend to visit Isms, pondering how the configuration of historical events makes some ideas surface."
+                                    ]
+                                },
+                                "haikcode":{
+                                    "summary":[
+                                        "Haikcode lived in History.",
+                                        "As History made its rounds around Bakuh, Haikcode fell in love with Computer Science."
+                                    ]
+                                }
+                            },
+                            "places":{
+                                "Isms":{
+                                    "summary":[
+                                        "Isms is a lake in history where ideologies float.",
+                                        "Cute, chubby creatures like romanticism and mercantilism swim around Isms, gobbling up ideologies."
+                                    ]
+                                }
+                            }
                         },
                         "Histories":{
                             "summary":[
-                                "Each concept has a history, a tiny dragon that follows them around."
+                                "Each concept has a history, a tiny dragon that follows them around.",
+                                "Sometimes, a concept's history gets lonely if it is not remembered correctly or is forgotten.",
+                                "At other times, the concept's history takes too much space and overshadows the concept."
                             ],
                             "examples":[ "The History of Neuroscience", "The History of Euler's Number" ]
                         }
                     }
                 },
                 "Science of Learning":{
-                    "summary":["A lighthouse in Neuroscience artic coast."],
+                    "summary":[ 
+                        "Science of Learning is a location off the coast of Neuroscience where concepts like recall and timed practice work.",
+                        "Concepts visit clinics run by Science of Learning concepts to ensure their cells are healthy."
+                    ],
                     "concepts": {
                         "Bloom's Taxonomy":"A concept that measures how well the cells in a concept's circulatory system can remember, explain, apply, analyze, evaluate, and create with a concept.",
                     }
+                }
+            },
+            "concepts":{
+                "feelings":{
+                    "summary":[
+                        "Feelings are cuddly, rabbit-like creatures."
+                    ]
                 }
             }
         },
@@ -370,7 +465,12 @@
                         "Feelings are furry creatues similar to rabbits that munch on neurotransmitters.",
                         "Feelings migrate between ● and Neuroscience but exist throughout Bakuh.",
                         "It is said Feelings arrived in cargo from the Brain when a concept from Neuroscience thought it was colonizing the Heart."
-                    ]
+                    ],
+                    "companionship": {
+                        "summary":[
+                            "Companionship is a feeling that sends out a cascade of wellbeing whenever it lands after jumping."
+                        ]
+                    }
                 }
             }
         },
@@ -407,6 +507,13 @@
                 }
             ]
         },
+        "Embryology":{
+            "summary":[
+                "Embryology was founded by a concept called embryology that emigrated out of Biology.",
+                "Embryology wanted to become independent from Biology so it could establish personal relationships with fields opposed by concepts in Biology.",
+                "Embryology wanted to explore its version of speciation and whether crystals should be considered living creatures."
+            ]
+        },
     "Nomadic Concepts":{
         "summary": [ "Bakuh has a few nomadic concepts that travel Bakuh in groups." ],
         "The Habits of Mind and Foundational Concepts": {},
@@ -423,7 +530,8 @@
             "Descriptions": "Puddles that form around Bakuh.",
             "Claims": "Grass that can be cut to make a brick or can also grow between bricks.",
             "Arguments": "Gardens where concepts go on dates, introspect, or live.",
-            "Insights": "Moments, or memories, where concepts find a connection they didn't know existed."
+            "Insights": "Moments, or memories, where concepts find a connection they didn't know existed.",
+            "Information and knowledge flow through concepts. Sometimes, concepts drink stochasticity, or noise, that allows them to ignore parts of the world but that leads to amazing results."
         },
         "Explanations":{
             "Explanations": "Paths that connect and constitute contexts.",
@@ -436,10 +544,21 @@
             "Attention": "Sunlight, or meaning being digested and excreted by time.",
             "Distraction": "Heat.",
             "Ideas": "Friction created by moving particles.",
-            "Life": "Spheroid plasma held by self-gravity.",
+            "Ideologies": "Glowing orbs that float above puddles.",
             "What If": "The name concepts use for 'Day.' Rather than 'Once upon a time', concepts sign 'What if...' when telling a story.",
             "Imagination": "Ventilation systems.",
-            "As Is": "The name concepts use for 'Night.'"
+            "As Is": "The name concepts use for 'Night.'",
+            "Life": "Spheroid plasma held by self-gravity."
+        },
+        "written documents":{
+            "summary": [ "Written documents are buildings." ],
+            "books":{
+                "summary":[
+                    "The rooms of a book are called chapters.",
+                    "The floors of a book are places where footnotes crawl.",
+                    "The meaning inside a book changes depending on the sunlight, or attention that hits it."
+                ]
+            }
         },
         "Building Blocks":[
             "Concepts from Chemistry decided to act like other concepts to stage the Fictional World of Bakuh.",
