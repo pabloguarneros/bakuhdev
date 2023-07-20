@@ -171,7 +171,44 @@
                 }
             }
         },
+        "Epistemology":{
+            "concepts":{
+                "Evidence":{
+                    "summary":[
+                        "Evidence administers the irrigation running through Bakuh."
+                    ]
+                }
+            },
+            "stories":[
+                {
+                    "title":"Heuristics",
+                    "story":
+                        [
+                            "Skepticism: 'What if citing evidence is making our claims weaker?'",
+                            "Evidence: 'For example?'",
+                            "Skepticism: '90% of studies show humans can't learn when they are old' supplies a claim but we seldom see the studies' dependencies.'",
+                            "Evidence: 'That's why I recommend concepts use reputable sources.",
+                            "Skepticism: 'Like universities?'",
+                            "Evidence: 'Exactl-",
+                            "Skepticism: 'That study college students?",
+                            "Evidence: 'Where's your evidence?'",
+                            "Evidence: 'Well, if the studies show that how can you argue against them...'",
+                            "Skepticism: 'But what if the studies use the same sampling group?'",
+                            "Evidence: 'They analyze college students?'",
+                            "Skepticism: 'I'd expect studies on age using different sampling groups, but even if they compare people from all economic and cultural backgrounds, they are still only looking at people alive today.",
+                            "Evidence: 'Why would someone want to cite something that was backed up by studying people alive tomorrow?'",
+                            "Skepticism: 'A study is the wrong way of doing science.'",
+                            "Evidence: 'You like making claims, skepticism. But a claim needs more than evidence to grow. It needs time. Care."
+                    ],
+                }
+            ]
+        },
         "Politics":{
+            "countries":{
+                "summary":[
+                    "Countries are trees."
+                ]
+            }
             "stories":[
                 {
                     "title": "Dividing Bakuh",
@@ -196,7 +233,33 @@
                         "Science of Learning concepts": "Science of Learning concepts keep concepts healthy by studying a concept's cells and encouraging concepts to exercise."
                     }
                 }
+            },
+            "concepts":{
+                "corporations":{
+                    "summary":[
+                        "Each corporation is a colony.",
+                        "A colony can have multiple sites, where they build their nests. Most corporations build their nests on trees, or countries.",
+                        "There are different bee roles within a colony. Property, plant, and equipment are one type of bees.",
+                        "A bee's cells are called employees.",
+                        "A colony's accountants are the cells around a bee's abdomen that helps structure the bee nest.",
+                        "Their beehive is known as a balance sheet, where they keep assets to one side and liabilities and shareholder's equity at another side.",
+                        "Schools, banks, and agricultural companies are also bees.",
+                        "Rather than cultivate honey, the bees cultivate tea."
+                    ],
+                    "income statement":{
+                        "summary":[
+
+                        ]
+                    },
+                "financial_statements":{
+                    "summary":""
+                }
+            },
+            "terms":{
+                "gross": "an object with a thick crust",
+                "net": "an object whose surface has been polished"
             }
+            
         },
         "Semiotics":{
             "summary": [ "Semiotics is a manufacturing hub known for exporting symbols." ],
@@ -370,6 +433,7 @@
             "Money":{
                 "Money":" A type of grain eaten by concepts and distributed to their cells."
             }
+            }
         },
         "Neuroscience":{
             "summary": [ "Concepts in Neuroscience built a huge telescope to observe Bakuh's moon, the Brain." ],
@@ -521,6 +585,10 @@
             "summary":["They originated somewhere between Mathematics, Uncertainty, and Correlation. Now, they are a band of cousins that like to travel together and sleep on trees."],
             "concepts":["Mean", "Standard Deviation", "Range", "Median", "Mode", "Variance", "Standard Error", "Percentile", "Quartile", "Interquartile Range", "Skewness", "Kurtosis"]
         }
+    },
+    "concepts that only exist in Bakuh":{
+        "Haikcode":"A poet that lives in Software Engineering and writes haikus as Python functions.",
+        "Newspark":"After newspapers and newsfeeds, came amusement parks."
     },
     "__":{
         "Data": {
