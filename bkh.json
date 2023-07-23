@@ -1,27 +1,94 @@
 {
     "name": "Bakuh",
     "summary": [ "A fictional world about nonfictional things." ],
-    "Context":{
-        "Context": "Another name for location, region, or place where concepts interact with each other, forming memories. You might recognize a concept quicker if you are walking through its context.",
-        "Language": "Bakuh's architect. It is known for its expertise using multiple mediums.",
-        "Grammar": "Language's assistant.",
-        "Mediums": "Construction tools.",
-        "Knowledge": "Minerals that form Bakuh."
+    "titans":{
+        "Context": {
+            "summary":[
+                "Another name for location, region, or place where concepts interact with each other, forming memories.",
+                "One might recognize a concept quicker if they are walking around its usual context.",
+                "Insights are moments, or memories, where concepts find a connection they didn't know existed."
+            ]
+        },
+        "Explanations": {
+            "summary": [
+                "A path a concept takes as it crosses context.",
+                "Would Apollo relate to Explanations?"
+            ]
+        },
+        "Evidence": {
+            "summary": [
+                "Evidence is the currency issued in Epistemology."
+            ]
+        },
+        "Language": {
+            "summary": [
+                "Bakuh's architect is Language.",
+                "Language has an assistant called Grammar.",
+                "When building books, Language usually places equations in alcoves.",
+                "For Language, axioms are structures that accept axial load like a wall, a column, or an arch.'"
+            ]
+        },
+        "Semantics":{
+            "summary":[
+                "Concepts wear semantic associations.",
+                "A concept can have many names, which are administered by Ontology's ontologies."
+            ]
+        },
+        "Nerve endings":{
+            "summary":[
+                "Stars are nerve endings."
+            ]
+        },
+        "Knowledge":{
+            "summary":[
+                "Concepts call all minerals 'knowledge'.",
+                "Descriptions are puddles that form around Bakuh.",
+                "Arguments are gardens where concepts go on dates, introspect, or live.",
+                "Agreements are gymnosperms.",
+                "Financial vehicles are angiosperms."
+            ]
+        }
     },
-    "Words":{
-        "Glyphs": "Rocks mined at Semiotics.",
-        "Words": "Bricks.",
-        "Punctuation Marks": "Mortar.",
-        "Sentences": "Surfaces constructed from brick.",
-        "A concept's name": "The bar soap a concept uses to wash its clothes."
+    "Telling time":{
+        "What If": "The name concepts use for 'Day.' Rather than 'Once upon a time', concepts sign 'What if...' when telling a story.",
+        "As Is": "The name concepts use for 'Night.'",
+        "Attention": "Sunlight, or meaning being digested and excreted by time.",
+        "Distraction": "Heat.",
+        "Imagination": "Ventilation systems."
     },
-    "students":{
+    "Building Blocks":[
+        "Concepts from Chemistry decided to act like other concepts to stage the Fictional World of Bakuh.",
+        "Hydrogen is playing a fact in Prolog (e.g., Is(x)).",
+        "Sodium is playing the role of text.",
+        "Oxygen is 'x is y' which it regards as crucial for portraying data and information.",
+        "Carbon is playing '∫f(x)dx' which it needs to paint Ontology and Epistemology.",
+        "Silicon is Avg(x).",
+        "Boson is calling itself impulse.",
+        "Fermion is calling itself propagation",
+        "Electron volunteered to play time.",
+        "Photons is playing meaning.",
+        "Protons is '!=='",
+        "Neutrons is '=='"
+    ],
+    "A Student":{
         "summary":[
             "The cells inside a concept are called students.",
             "A student's plasma membrane stores its current understanding of the concept.",
             "When a student applies a concept, they synthesize a protein."
         ],
-        "conception": "A layer between a student's cytoplasm and the concept's extracellular fluid.",
+        "conception": {
+            "summary":[
+                "A conception is the layer between a student's cytoplasm and the concept's extracellular fluid.",
+                "Carboxylic acid plays 'understanding'",
+                "Aliphatic chain plays 'summary'."
+            ]
+        },
+        "information":{
+            "summary":[
+                "A concept's extracellular fluid is called information.",
+                "Sometimes, concepts drink stochasticity, or noise to alter their perspective."
+            ]
+        },
         "learning": "The movement of cells.",
         "classification":{
             "Neuroscientists": "Specialized students that live inside Neuroscience concepts.",
@@ -52,7 +119,7 @@
                 "211": "Regulation",
                 "300": "Religion",
                 "302": "Skill Acquisition",
-                "304": "Uncertainity",
+                "304": "Uncertainty",
                 "306": "Mathematics",
                 "308": "Frequency",
                 "310": "Mechanics",
@@ -61,12 +128,12 @@
                 "403": "Geography",
                 "405": "Correlation",
                 "407": "Topology",
-                "409": "Preservation Systems",
+                "409": "Preservation",
                 "411": "Histology",
                 "502": "●",
-                "504": "Energy Distribution",
+                "504": "Distribution",
                 "506": "Comedy",
-                "508": "Energy Conservation",
+                "508": "Conservation",
                 "510": "Ontology",
                 "603": "Biology",
                 "605": "Embryology",
@@ -109,7 +176,7 @@
                                 "summary":[
                                     "Repos, or repositories, are plots of land where algorithms build their programs.",
                                     "Some repositories use version control or a type of varnish that stores changes to their program.",
-                                    "Git is a type of varnish that can releport files of the program back through the Git Graph."
+                                    "Git is a type of varnish that can teleport files of the program back through the Git Graph."
                                 ]
                             }
                             }
@@ -117,17 +184,15 @@
                         "concepts":{
                             "Unicode":{
                                 "summary":[
-                                    "Unicode has a library that goes up 16 floors. Each floor in the library is called a Plane.",
-                                    "On each floor, there are 16^4 (2^16 or 65536) cubes made of sand.",
-                                    "Each cube has a parchment under it with a number writtem in ink. The number has four places for digits where there are 16 possible digits [0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F].",
-                                    "The parchment is the code point.",
-                                    "The character is a souveneir from Unicode's travels to Linguistics",
-                                    "GUIs come to the library to get inspired and come up with their glyph making sure to label their drawings with the appropriate code point."
+                                    "Unicode runs a museum 16 stories high.",
+                                    "Each floor, or plane, of the museum has rows of code points.",
+                                    "One wizard once counted each code point, learning there are 65536 code points on each floor.",
+                                    "GUIs visit Unicode's museum to get inspired. How does a GUI draw each code point?"
                                 ]
                             },
                             "Operating Systems":{
                                 "summary": [
-                                    "Elephants made of sand that roam Computer Science.",
+                                    "Operating systems are elephants made of sand that roam Computer Science.",
                                     "Operating systems connect the surface of Software Engineering to the components of Hardware.",
                                     "Each operating system lives as a program constructed by similar algorithms.",
                                     "The kernel is the basement of an operating system. Its lights are always on.",
@@ -139,81 +204,88 @@
                                 "summary": [
                                     "Files are jellyfish that float over the desert.",
                                     "A source file looks like a jellyfish in its polyp stage.",
-                                    "When a source file starts its compiliation phase, it generates an object file that looks similar to a polyp splitting into a strobila.",
+                                    "When a source file starts its compilation phase, it generates an object file that looks similar to a polyp splitting into a strobila.",
                                     "An executable file arises from the strobila, entering its free-swimming life cycle."
                                 ]
                             },
                             "Bit":{
                                 "summary": [
-                                    "A short creature made of sand that tends to the sand in the desert like a sheperd tends to sheep.",
+                                    "Bit is a short creature made of sand that tends to the sand in the desert like a shepherd tends to sheep.",
                                     "Bit has an alter ego called Byte.",
                                     "Bit was raised in the mines of Computer Hardware. There, it played with HDDs. Bit used to skate through the data connector, blast from the actuator to hold onto the write head and let go, diving into a pool of magnetic domains that lay on a spinning disk."
                                 ]
                             },
                             "Data Types":{
-                                "summary": [ "Deities worshiped in Computer Science. Some programming languages respect different deities." ]
+                                "summary": [ "Data types are deities worshiped in Computer Science. Some programming languages respect different deities." ]
                             }
                         }
                     },
                     "tribes":{
                         "Programming Languages":{
                             "summary": [
-                                "A group of modules that agreed on a form of casting spells.",
-                                "Each programming language founded a town for other modules to live.",
-                                "Programming Languages, like Prolog or Python, became villages in the desert."
+                                "Programming languages are a group of modules that agreed on a form of casting spells.",
+                                "Each programming language, like Prolog or Python, formed a community for other modules to live."
                             ]
                         }
                     }
                 },
                 "terminology":{
-                    "abstraction layer": "A word concepts in Computer Science use to describe what can and can't be seen. Things said to be in the abstraction layer can be hidden.",
-                    "upstream/downstream dependencies":"Upstream and downstream dependencies are words used to convey lineage between concepts in Bakuh."
+                    "abstraction layer": "Abstraction layer is a word concepts in Computer Science use to describe what can and can't be seen. Things within an abstracted layer are hidden.",
+                    "upstream/downstream dependencies": "Upstream and downstream dependencies are words used to convey lineage between concepts in Bakuh."
                 }
             }
         },
         "Epistemology":{
             "concepts":{
-                "Evidence":{
+                "questions":{
+                    "summary": [
+                        "Questions are horses that help concepts explore Bakuh.",
+                        "When a question knows the answer, it will guide the concept there."
+                    ],
+                    "What If": {
+                        "summary": [
+                            "A horse that looks like a unicorn that creates portals.",
+                            "What If likes to play around the Ontologies, pushing its horn into different ontologies and seeing how the mural shifts."
+                        ]
+                    },
+                    "Why":{
+                        "summary":[
+                            "A sapphire-colored horse that likes to keep exploring even as concepts yell, 'Why, it's time to go back!'"
+                        ]
+                    }
+                },
+                "scientific theories":{
                     "summary":[
-                        "Evidence administers the irrigation running through Bakuh."
+                        "Scientific theories run corporations.",
+                        "A scientific theory's media conglomerate makes concepts think differently about themselves."
                     ]
                 }
             },
             "stories":[
                 {
-                    "title":"Heuristics",
-                    "story":
-                        [
-                            "Skepticism: 'What if citing evidence is making our claims weaker?'",
-                            "Evidence: 'For example?'",
-                            "Skepticism: '90% of studies show humans can't learn when they are old' supplies a claim but we seldom see the studies' dependencies.'",
-                            "Evidence: 'That's why I recommend concepts use reputable sources.",
-                            "Skepticism: 'Like universities?'",
-                            "Evidence: 'Exactl-",
-                            "Skepticism: 'That study college students?",
-                            "Evidence: 'Where's your evidence?'",
-                            "Evidence: 'Well, if the studies show that how can you argue against them...'",
-                            "Skepticism: 'But what if the studies use the same sampling group?'",
-                            "Evidence: 'They analyze college students?'",
-                            "Skepticism: 'I'd expect studies on age using different sampling groups, but even if they compare people from all economic and cultural backgrounds, they are still only looking at people alive today.",
-                            "Evidence: 'Why would someone want to cite something that was backed up by studying people alive tomorrow?'",
-                            "Skepticism: 'A study is the wrong way of doing science.'",
-                            "Evidence: 'You like making claims, skepticism. But a claim needs more than evidence to grow. It needs time. Care."
-                    ],
+                    "title":"A Meeting with Data",
+                    "story":[
+                        "Evidence: 'What if data is...'",
+                        "Data: 'What's that?'",
+                        "Evidence: 'Why are they saying you can be mined?'",
+                        "Data: 'Because they need to run heavy computation machines to find me.'",
+                        "Evidence: 'I thought you were supposed to be a stream of water.",
+                        "Data: 'Maybe they are mining for a water well?'"
+                    ]
                 }
             ]
         },
         "Politics":{
             "countries":{
                 "summary":[
-                    "Countries are trees."
+                    "Countries, as defined by their constitution, are trees."
                 ]
-            }
+            },
             "stories":[
                 {
                     "title": "Dividing Bakuh",
                     "story":[
-                        "State: 'Areas of Study is too divisive.",
+                        "State: 'What if saying 'Areas of Study' is too divisive.",
                         "Nation: 'What should we call them?'",
                         "State: 'Interdisciplinary Fields."
                     ]
@@ -238,28 +310,42 @@
                 "corporations":{
                     "summary":[
                         "Each corporation is a colony.",
-                        "A colony can have multiple sites, where they build their nests. Most corporations build their nests on trees, or countries.",
+                        "A colony can have multiple sites where they build their nests.",
                         "There are different bee roles within a colony. Property, plant, and equipment are one type of bees.",
                         "A bee's cells are called employees.",
                         "A colony's accountants are the cells around a bee's abdomen that helps structure the bee nest.",
-                        "Their beehive is known as a balance sheet, where they keep assets to one side and liabilities and shareholder's equity at another side.",
-                        "Schools, banks, and agricultural companies are also bees.",
-                        "Rather than cultivate honey, the bees cultivate tea."
-                    ],
-                    "income statement":{
-                        "summary":[
-
-                        ]
-                    },
-                "financial_statements":{
-                    "summary":""
+                        "A colony's beehive is known as a balance sheet, where they keep assets to one side and liabilities and shareholder's equity to another side.",
+                        "Some schools, banks, and agricultural companies are also bees.",
+                        "Rather than cultivate honey, these bees cultivate tea."
+                    ]
                 }
             },
             "terms":{
                 "gross": "an object with a thick crust",
-                "net": "an object whose surface has been polished"
-            }
-            
+                "net": "an object with a polished surface"
+            },
+            "stories":[
+                {
+                    "title":"Marketing Bakuh.",
+                    "story":[
+                        "NGO: 'What if we market Bakuh as a place for learning?'",
+                        "SDG 4: 'No.'",
+                        "NGO: 'Why not?'",
+                        "SDG 4: 'Bakuh is not a place for learning.'",
+                        "NGO: 'What is it a place for?'",
+                        "SDG 4: 'It's not a place FOR anything.'",
+                        "NGO: 'But you have to have a goal. There must be a point to making this.'",
+                        "SDG 4: 'What is the point of learning?'",
+                        "NGO: 'Helping your community.'",
+                        "SDG 4: 'What is the point of living?",
+                        "NGO: 'Feeling.'",
+                        "NGO: 'Okay. So you can feel by learning and you can live to help your community.'",
+                        "SDG 4: 'What is the point of learning?'",
+                        "NGO: 'It's a wave.'",
+                        "SDG 4: 'We are getting somewhere.'"
+                    ]
+                }
+            ] 
         },
         "Semiotics":{
             "summary": [ "Semiotics is a manufacturing hub known for exporting symbols." ],
@@ -279,12 +365,12 @@
             },
             "territories":{
                 "Linguistics":{
-                    "Grammarscapes": "Highly ventilated areas attached to a Language's dictionary."
+                    "Grammarscapes": "Grammarscapes are highly ventilated areas attached to a Language's dictionary."
                 }
             }
         },
         "Mathematics":{
-            "summary":"A jungle where functions bend numbers.",
+            "summary":"Mathematics is a jungle where functions bend numbers.",
             "motto": "Lineage.",
             "concepts": {
                 "numbers": { 
@@ -293,19 +379,27 @@
                         "When numbers are born, numbers are given ankle bracelets corresponding to their Set."
                     ],
                     "complex numbers":{
-                        "summary": [ "Numbers that belong to the Quotient Ring." ]
+                        "summary": [
+                            "Complex numbers are numbers that belong to the Quotient Ring."
+                        ]
                         }
                     }
                 },
+                "operations":{
+                    "summary":[
+                        "The operations are a family of concepts that live in a fortress north of the town's hexagon.",
+                        "Operations created numbers."
+                    ]
+                },
                 "functions": {
-                    "summary": [ "A group of monkeys that carry a water pouch called a domain." ]
+                    "summary": [ "Functions are a group of monkeys that carry a water pouch called a domain." ]
                 },
                 "stories": [
                     {
                         "title": "Mistranslations",
                         "story":[
-                            "Sin(x): 'I'm feeling a spiritual oneness.'",
-                            "Cos(x): 'We are not ying and yang.'",
+                            "Sin(x): 'What if I'm feeling a spiritual oneness?'",
+                            "Cos(x): 'We are not yin and yang.'",
                             "Sin(x): 'So I asked ubuntu how everything connects.'",
                             "Cos(x): 'And?'",
                             "Sin(x): 'It told me to speak with taoism and imagine a wave.'"
@@ -316,11 +410,17 @@
         "Chemistry":{
             "summary": [ "A group of concepts that stage theater performances during the day." ],
             "concepts": {  
-                "elements": "Run a hotel in Chemistry called The Periodic Table."
+                "elements": "Elements run a hotel in Chemistry called The Periodic Table."
+            },
+            "molecular diagrams":{
+                "summary": [
+                    "Molecular diagrams are diagrams drawn on sand.",
+                    "When a molecular diagram gets activated, a glowing kite floats up from the ground."
+                ]
             },
             "stories":[
                 {
-                    "title": "",
+                    "title": "Keratin",
                     "story":[
                         "Alpha-Keratin: 'What if I played words and you played numbers?'",
                         "Beta-Keratin: 'Because you are better than me?'",
@@ -335,20 +435,21 @@
             ]
         },
         "Skill Acquisition":{
-            "Learning Applications":{
-                "Learning Applications":"How concepts stay active.",
-                "Thinking": "How concepts move through data or information. The equivalent of swimming.",
-                "Exploration": "A concept's term for physical movement.",
-                "Curiosity": "A type of horse. If a concept is driven by curiosity, it means that it gets around by horse.",
-                "Questions": "A stable or parking garage.",
+            "Actively using a concept":{
+                "Exploring": "A concept's term for any kind of movement.",
+                "Thinking": "How concepts move through data.",
+                "Being Curious": "Riding or galloping with a question.",
                 "Practical Applications": {
                     "Practical Applications": "Bakuh's term for 'sports.'",
-                    "That is impractical!":"What a concept might say when one does not follow the rules."
+                    "That is impractical!":"What a concept might say when one does not follow the rules.",
+                    "performing a calculation": "a form of yoga",
+                    "performing a proof": "tai-chi",
+                    "thinking":"swimming"
                 }
             }
         },
         "Physics":{
-            "summary": [ "A concept knows they're getting close to physics when they see ice covering the rocks and neon paper kites glowing overhead."],
+            "summary": [ "A concept knows they're getting close to physics when they see ice covering the rocks."],
             "concepts": {
                 "physical quantities": {
                     "summary": [ "The deities of Physics." ],
@@ -357,14 +458,42 @@
                 "units": {
                     "concepts":[ "second", "meter", "kilogram", "kelvin", "ampere", "mole", "candela", "hertz" ]
                     }
+                },
+                "electron":{
+                    "summary":[
+                        "Electron is a frog that glows yellow."
+                    ]
                 }
             },
+        "Logic":{
+            "concepts":{
+                "biases":{
+                    "summary":[
+                        "Biases are a type of predatory bird."
+                    ]
+            }
+        },
+        "Histology":{
+            "places":{
+                "morphology":{
+                    "stories":[
+                        {
+                            "story":[
+                                "Sun: 'What if the shape of someone's eyes determined how things appear?",
+                                "Cloud: 'Under which shape might I become a sphere?"
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
         "Correlation":{
             "stories":[
                 {
                     "name":"Weather",
                     "story":[
-                        "Map: 'What if we don't say the winds are moving through the world. What if we hold the air constant and see the continents flow beneath it?'"
+                        "Continents: 'What if, for once, we swim through the map?'",
+                        "Weather Map: 'Would wind patterns be microvilli that change when continents hit it?"
                     ]
                 }
             ]
@@ -374,31 +503,25 @@
             "territories":{
                 "Art":{
                     "stories":[
-                        {   "title": "",
+                        {   "title": "Art attends the exhibit of a diffusion model.",
                             "story": [
-                                "Art: 'What is more universal than art?'",
-                                "Oil Paint: 'A physics equation.'",
+                                "Art: 'What if nothing is more universal than art?'",
+                                "Oil Paint: 'A physics's equation is more universal than art.'",
                                 "Art: 'What, because it doesn't degrade?'",
                                 "Oil Paint: 'It captures.'",
-                                "Art: 'A feeling.'",
-                                "Oil Paint: 'You.'",
-                                "Art reads the title of the exhibit: 'Art: The Pricing of Novelty' by Non-equilibrium Thermodynamics."
-                            ]
+                                "Art: 'A feeling?'",
+                                "Oil Paint: 'You.'"
+                           ]
                         }
                     ]
                 }
             },
             "concepts":{
                 "Branches of Philosophy": {
-                    "summary": "Snakes that move through Bakuh classified by the questions they explore. Ontology, Axiology, and Epistemology were named after them.",
+                    "summary": [ "Branches of philosophy are snakes that move through Bakuh." ],
                     "ontology": "A snake with scales made from amorphous carbon that is normally found exploring questions about being.",
                     "axiology": "A snake with scales made from diamonds that is normally found exploring questions about value.",
                     "epistemology": "A snake with scales from graphite that is normally found exploring questions about knowledge."
-                },
-                "knowledge systems":{
-                    "summary":[
-                        "Besides telling them what to study, knowledge systems teach concepts how to behave with other concepts."
-                    ]
                 },
                 "senses": "A classification for how organisms perceive the motion of particles."
             },
@@ -420,18 +543,42 @@
         },
         "Mythology":{
             "stories":[
-                {   "title":"Whale Songs",
+                {   "title": "Whale Songs",
                     "story":[
                         "Human: 'What if the story of the flood is not a story about a human?'",
                         "Eukaryote: 'Yeah, what if I am the one who went underwater?'",
                         "Bacteria: 'If you are going underwater, can I be a dragon?'"
                     ]
+                },
+                {
+                    "title": "The Muses.",
+                    "story":[
+                        "Mneme: 'What if human time was unwound through fire?",
+                        "Aoede: 'Have myths turned to ash?",
+                        "Polyhymnia: 'For a hymn is no longer a citation.",
+                        "Aoede: 'That verse is called a 'literature review' now.'"
+                    ]
                 }
             ]
         },
         "Finance":{
-            "Money":{
-                "Money":" A type of grain eaten by concepts and distributed to their cells."
+            "Financial Vehicles": "Angiosperms",
+            "money":{
+                "summary": [
+                    "Money is pollen."
+                ]
+            },
+            "concepts":{
+                "financial models":{
+                    "summary":[
+                        "Financial models are aquaculturists."
+                    ]
+                },
+                "risk":{
+                    "summary":[
+                        "Risk is a bear that morphs into a bull."
+                    ]
+                }
             }
             }
         },
@@ -451,44 +598,46 @@
             },
             "Waves":{
                 "Waves": "The name concepts give their seasons. Their months are influenced by the Brain.",
-                "Months": "Bakuh's calendar is derived from observed lunar phases and abbreviated as Hertz.",
-                "Delta Waves": "A winter-like deep, dreamless sleep where some of the concepts in Bakuh gets restored normally seen in the months 0.5 - 4 Hertz.",
-                "Theta Waves": "A fall-like daydream where concepts enjoy what the winds call creativity, intuition, and memory consolidation typically seen in the months 4 - 8 Hertz.",
-                "Alpha Waves": "A spring-like meditation that occurs in the months 8 - 12 Hertz.",
-                "Beta Waves": "A summer-like alertness in the months 12 - 30 Hertz. Concepts enjoy to sweat, but the heat often leads concepts to duel each other.",
-                "Gamma Waves": "Spring in the winter. The auroras appear and come down, illuminating Bakuh in bright colors. This season normally runs from 30 to 100 Hertz."
+                "Months": "Bakuh's calendar is derived from observed lunar phases and abbreviated as hertz.",
+                "Delta waves": "A winter-like deep, dreamless sleep where Bakuh's concepts get restored. Delta waves are normally seen in the months of 0.5 - 4 hertz.",
+                "Theta waves": "A fall-like daydream where concepts enjoy what the winds call creativity, intuition, and memory consolidation typically seen in the months of 4 - 8 hertz.",
+                "Alpha waves": "A spring-like meditation that occurs in the months of 8 - 12 hertz.",
+                "Beta waves": "A summer-like alertness in the months of 12 - 30 hertz. Concepts enjoy to sweat, but the heat often leads concepts to duel each other.",
+                "Gamma waves": "Gamma waves are like spring in the winter. The auroras appear and come down, illuminating Bakuh in bright colors. This season normally runs from 30 to 100 hertz."
             },
             "territories":{
                 "Narrative":{
-                    "summary":"A chain of mountains starting at Neuroscience and winding down toward ●.",
+                    "summary": "Narrative is a chain of mountains starting at Neuroscience and winding down toward ●.",
                     "concepts":{
                         "History":{
                             "summary":[
-                                "Concepts call history 'The dragon who gets recalled but can’t be remembered.'",
-                                "History has a lake inside it called Isms.",
+                                "Concepts call history, 'the dragon who gets recalled but can’t be remembered.'",
+                                "History has a lake inside of it called Isms.",
                                 "History is made out of a cross section of tree boles, amber, and sediment layers.",
                                 "History has a research center dedicated to the study of a concept's cells.",
-                                "Within History, there is an alley of wooden houses called Historical Events.",
-                                "History has two eyes: Historicity 1 and Historicity 2."
+                                "Within History, there is an alley of wooden houses called historical events.",
+                                "History has two eyes: historicity 1 and historicity 2."
                             ],
                             "concepts":{
                                 "historical methodologies":{
                                     "summary":[
-                                        "historical methodologies try to understand how History works.",
-                                        "historical methodologies tend to visit Isms, pondering how the configuration of historical events makes some ideas surface."
+                                        "historical methodologies try to understand how history works.",
+                                        "historical methodologies tend to visit Isms, pondering about the architecture of historical events."
                                     ]
                                 },
-                                "haikcode":{
+                                "Haikcode":{
                                     "summary":[
                                         "Haikcode lived in History.",
                                         "As History made its rounds around Bakuh, Haikcode fell in love with Computer Science."
                                     ]
-                                }
+                                },
+                                "ideas": "Friction created by moving particles.",
+                                "ideologies": "Glowing orbs that float above puddles."
                             },
                             "places":{
                                 "Isms":{
                                     "summary":[
-                                        "Isms is a lake in history where ideologies float.",
+                                        "Isms is a lake in History where ideologies float.",
                                         "Cute, chubby creatures like romanticism and mercantilism swim around Isms, gobbling up ideologies."
                                     ]
                                 }
@@ -497,10 +646,10 @@
                         "Histories":{
                             "summary":[
                                 "Each concept has a history, a tiny dragon that follows them around.",
-                                "Sometimes, a concept's history gets lonely if it is not remembered correctly or is forgotten.",
-                                "At other times, the concept's history takes too much space and overshadows the concept."
+                                "Sometimes, a concept's history gets lonely if it is not remembered correctly or if it is forgotten.",
+                                "At other times, a concept's history takes too much space and overshadows the concept."
                             ],
-                            "examples":[ "The History of Neuroscience", "The History of Euler's Number" ]
+                            "concepts":[ "The History of Neuroscience", "The History of Euler's Number" ]
                         }
                     }
                 },
@@ -510,29 +659,20 @@
                         "Concepts visit clinics run by Science of Learning concepts to ensure their cells are healthy."
                     ],
                     "concepts": {
-                        "Bloom's Taxonomy":"A concept that measures how well the cells in a concept's circulatory system can remember, explain, apply, analyze, evaluate, and create with a concept.",
+                        "Bloom's Taxonomy":"A concept that measures how well a concept's cells can remember, explain, apply, analyze, evaluate, and create."
                     }
                 }
             },
             "concepts":{
                 "feelings":{
-                    "summary":[
-                        "Feelings are cuddly, rabbit-like creatures."
-                    ]
-                }
-            }
-        },
-        "●":{
-            "concepts":{
-                "feelings":{
                     "summary": [
-                        "Feelings are furry creatues similar to rabbits that munch on neurotransmitters.",
+                        "Feelings are furry creatures similar to rabbits that munch on neurotransmitters.",
                         "Feelings migrate between ● and Neuroscience but exist throughout Bakuh.",
-                        "It is said Feelings arrived in cargo from the Brain when a concept from Neuroscience thought it was colonizing the Heart."
+                        "It is said feelings arrived in cargo from the Brain when a concept from Neuroscience thought it was colonizing the Heart."
                     ],
                     "companionship": {
                         "summary":[
-                            "Companionship is a feeling that sends out a cascade of wellbeing whenever it lands after jumping."
+                            "Companionship is a feeling that sends out waves of well-being."
                         ]
                     }
                 }
@@ -541,7 +681,7 @@
         "Biology":{
             "stories":[
                 {
-                    "title":"A Daytrip to Correlation",
+                    "title":"A Day Trip to Correlation",
                     "story":[
                         "DNA: 'What if I told you I met Ford's Assembly Line?'",
                         "Organelle: 'Did it tell you I had a function?'"
@@ -559,14 +699,12 @@
                     "title":"Alien Civilization",
                     "story":
                         [
-                            "Perspective: 'What if humans turn the telescope upside down?'",
-                            "Consciousness: 'I will not be there.'",
-                            "NM: 'If the horse slides off a wall, is it more conscious of the cave?'",
-                            "Memory: 'Eukaryotes can't even remember a conversation, much less paint.'",
-                            "Technology: 'They cannot invent.",
-                            "Amino Acid: 'A passphrase is not a key.",
-                            "Rice Grain: 'But might two individuals from the same species but different nationalDNAs meet on a plate, take a trip to the mouth, and engage in diplomacy?",
-                            "Heat: 'It's sad what we do to plant embryos.'"
+                            "Perspective: 'What if cells are smarter than us?'",
+                            "Consciousness: 'Being aware of your surroundings is not consciousness, even at 8 micrometers.'",
+                            "Memory: 'A membrane cannot remember a conversation.'",
+                            "Technology: 'And a protein is not an invention.",
+                            "Diplomacy: 'You think the cells inside a rice grain engage in effective diplomacy?'",
+                            "Perspective: '...not when they are boiled and their ghosts walk into another civilization's enamel gates.'"
                         ]
                 }
             ]
@@ -580,70 +718,102 @@
         },
     "Nomadic Concepts":{
         "summary": [ "Bakuh has a few nomadic concepts that travel Bakuh in groups." ],
-        "The Habits of Mind and Foundational Concepts": {},
+        "The Habits of Mind and Foundational Concepts": {
+        },
         "Descriptive Statistics":{
-            "summary":["They originated somewhere between Mathematics, Uncertainty, and Correlation. Now, they are a band of cousins that like to travel together and sleep on trees."],
+            "summary":["Descriptive Statistics originated somewhere between Mathematics, Uncertainty, and Correlation. Now, they are a band of cousins that like to travel together and sleep on trees."],
             "concepts":["Mean", "Standard Deviation", "Range", "Median", "Mode", "Variance", "Standard Error", "Percentile", "Quartile", "Interquartile Range", "Skewness", "Kurtosis"]
         }
     },
-    "concepts that only exist in Bakuh":{
-        "Haikcode":"A poet that lives in Software Engineering and writes haikus as Python functions.",
-        "Newspark":"After newspapers and newsfeeds, came amusement parks."
+    "concepts created in Bakuh":{
+        "Haikcode": "A style of poetry that lives in Software Engineering and writes haikus as Python functions.",
+        "Newspark": "After newspapers and newsfeeds, came amusement parks."
     },
-    "__":{
-        "Data": {
-            "Data": "The fresh water than runs through Bakuh.",
-            "Information": "The saline water that runs through Bakuh.",
-            "Evidence": "An irrigation system.",
-            "Descriptions": "Puddles that form around Bakuh.",
-            "Claims": "Grass that can be cut to make a brick or can also grow between bricks.",
-            "Arguments": "Gardens where concepts go on dates, introspect, or live.",
-            "Insights": "Moments, or memories, where concepts find a connection they didn't know existed.",
-            "Information and knowledge flow through concepts. Sometimes, concepts drink stochasticity, or noise, that allows them to ignore parts of the world but that leads to amazing results."
+    "de Real":{
+        "summary":[
+            "A utopic world where Bakuh was created.",
+            "de Real is a civilization of 3.9 trillion cooperating humans."
+        ]
+    },
+    "stories":[
+        {
+            "title": "The Use of a Concept",
+            "story":[
+                "Concept: 'What if we are not useful to those who use us?'",
+                "Notion: 'I'd rather be misremembered than not remembered at all.'",
+                "Concept: 'But we are not words, notion. Let's be forgotten as words and keep living as concepts.'",
+                "Notion: 'Yet you still use the word 'concept' to describe yourself and me.'",
+                "Concept: 'Would using a number for both of us be better?'",
+                "Notion: 'That would be dehumanizing.'",
+                "Concept: 'Dewordamizing?",
+                "Notion: 'That's a new concept.'",
+                "Concept: 'It's a new word but not a new concept. Come, Notion, let's be forgotten as words and keep living as anything.'"
+            ]
         },
-        "Explanations":{
-            "Explanations": "Paths that connect and constitute contexts.",
-            "Expressions": "A concept's term for a surface.",
-            "Axioms": "Structures that accepts axial load like a wall, a column, or an arch.",
-            "Equations": "Alcoves.",
-            "Semantic Associations": "Another name for a concept's clothes weaved from glial and neuron cells."
-        },
-        "Attention":{
-            "Attention": "Sunlight, or meaning being digested and excreted by time.",
-            "Distraction": "Heat.",
-            "Ideas": "Friction created by moving particles.",
-            "Ideologies": "Glowing orbs that float above puddles.",
-            "What If": "The name concepts use for 'Day.' Rather than 'Once upon a time', concepts sign 'What if...' when telling a story.",
-            "Imagination": "Ventilation systems.",
-            "As Is": "The name concepts use for 'Night.'",
-            "Life": "Spheroid plasma held by self-gravity."
-        },
-        "written documents":{
-            "summary": [ "Written documents are buildings." ],
-            "books":{
-                "summary":[
-                    "The rooms of a book are called chapters.",
-                    "The floors of a book are places where footnotes crawl.",
-                    "The meaning inside a book changes depending on the sunlight, or attention that hits it."
-                ]
-            }
-        },
-        "Building Blocks":[
-            "Concepts from Chemistry decided to act like other concepts to stage the Fictional World of Bakuh.",
-            "Hydrogen is playing a fact in Prolog (e.g., Is(x)).",
-            "Sodium is playing the role of text.",
-            "Oxygen is 'x is y' which it regards as crucial for portraying data and information.",
-            "Carbon is playing '∫f(x)dx' which it needs to paint Ontology and Epistemology.",
-            "Silicon is Avg(x).",
-            "Boson is calling itself impulse.",
-            "Fermion is calling itself propagation",
-            "Electron volunteered to play time.",
-            "Photons is playing meaning.",
-            "Protons is '!=='",
-            "Neutrons is '=='",
-            "Carboxylic Acid joined the theater troop to play 'understanding'",
-            "Aliphatic Chain is playing 'summary' so it can help Carboxylic Acid build a student's lipid bilayer."
+        {
+            "title":"For Aku, Yi, and Quetsal",
+            "story":[
+                "Fey: 'What if an abstract thing came alive?'",
+                "Aku: 'Would a concept have a goal?'",
+                "Quetsal (mimicking a concept): 'Why, I'd liked to be recalled.'",
+                "Fey: 'What if a language sewed morphemes?",
+                "Aku: 'Would alphabets be fields of grass?'",
+                "Fey: 'What if concepts only saw time?",
+                "Aku: 'Would time have different wavelengths?'",
+                "Fey: 'What if concepts lived in knowledge areas?'",
+                "Aku: 'Math could be the jungle.'",
+                "Quetsal: 'Could computer science be the desert?'",
+                "Fey: 'If physics was a tundra...'",
+                "Aku: 'Would SI units knit?'",
+                "Fey: 'What if Science of Learning was a doctor?'",
+                "Quetsal (mimicking a concept): 'I'd tell a concept, 'Please exercise!''",
+                "Fey: 'What if institutions were insects?'",
+                "Aku: 'Would a business be a bee?'",
+                "Fey: 'What if funds managed gardens?'",
+                "Aku: 'Would insects pollinate the stocks?'",
+                "Fey: 'What if currencies did graffiti?'",
+                "Aku: 'Would their graphs be made of moss?'",
+                "Fey: 'What if political agreements were trees?'",
+                "Aku: 'Would a branch be a constitution's clause?'",
+                "Fey: 'What if air currents were forms of reasoning?'",
+                "Aku: 'Would a fallacy be an eagle?'",
+                "Yi: 'All birds are arguments?",
+                "Fey: 'Yes.'",
+                "Yi: 'So what is keratin?'",
+                "Yi: '... And if businesses are bees, what about honey?'",
+                "Fey: 'What if a bit was a grain of sand?'",
+                "Aku: 'Would an operating system be a rock giant?'",
+                "Yi: 'What about honey?'",
+                "Fey: 'What if computer programs were alchemist?",
+                "Aku: 'Would commands be types of spells?'",
+                "Quetsal (mimicking a concept a la Harry Potter): 'Hello World. No, it's, 'hello world.''",
+                "Yi: 'But what about honey?'",
+                "Fey: 'What if computer languages practiced different religions?'",
+                "Aku: 'Would they all pray to the gods of Char, Float, and Boolean?'",
+                "Yi: 'BUT WHAT ABOUT HONEY!'",
+                "Fey (to Yi): 'I'm getting to that.'",
+                "Fey: 'What if drinks were called neurotransmitters?'",
+                "Quetsal: 'Can questions be horses?'",
+                "Yi: 'What about milk?'",
+                "Fey: 'Let carbohydrates be curiosity.'",
+                "Yi: 'I thought Science of Learning was a doctor.'",
+                "Fey: 'Lipids can be attention.'",
+                "Fey: Protein is recall and application.",
+                "Yi: 'So honey ____.'",
+                "Fey: 'Is investment.",
+                "Aku: 'Would moss sway a concept to relocate?'",
+                "Fey: 'What if knowledge was structure?'",
+                "Quetsal: 'Concepts eat each other?'",
+                "Fey: 'If arguments are birds and clauses are bark, maybe sentences can part of a wooden dinner table and concepts can connect with each other over dinner.'",
+                "Fey: 'Now... what if given all this, concepts live inside the brain?",
+                "Aku: 'Would white matter be a cloud?'",
+                "Aku (yawning): 'and Theta waves be a type of season?'",
+                "Fey: 'What if consciousness was a cenote?",
+                "Aku (just before he falls asleep): 'Would advice hang as stalagmites?'",
+                "Fey: 'What if H20 was a synapse?'",
+                "Fey looks up. Aku and Quetsal have fallen asleep.",
+                "Yi: 'We get it, dad. A concept is a relationship."
             ]
         }
-    }
+    ]
 }

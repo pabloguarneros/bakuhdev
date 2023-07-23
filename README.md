@@ -16,3 +16,5 @@ Website: [First Version](https://www.explorebakuh.com/)
 **Capitalizing concepts**
 Only places (Chemistry, Ontology, Mathematics) are written with an uppercase letter. Concepts, when visualized as characters, are written in lowercase (chemistry, ontology, mathematics).
 
+**Naming Bakuh**
+Bakuh's name stems from the concept of 'baktun', a cycle of 144,000 days in the Maya calendar.
