@@ -719,6 +719,121 @@
     "Nomadic Concepts":{
         "summary": [ "Bakuh has a few nomadic concepts that travel Bakuh in groups." ],
         "The Habits of Mind and Foundational Concepts": {
+            "summary":[
+                "The HCs are nomads that like to analyze the world around them.",
+                "The HCs are mechanics that wear a necklace with a '#' pendant.",
+                "HCs are both fiercely communal and individualist.",
+                "HCs band in guilds called competencies. The four core competencies are Thinking Creatively, Thinking Critically, Communicating Effectively, and Collaborating Effectively.",
+                "The HCs are known for making applications, or contraptions that allow concepts and their students to nurture, develop, and present ideas.",
+                "The HCs sell their applications at a market. At each stall, the HCs put up a shoe with a sticky-note on the sole of the shoe. This is the label of the application, its footnote."
+            ],
+            "concepts":{
+                "Habits of Mind":{
+                    "summary":[
+                        "Habits of Mind can teleport through the networks of fibers running throughout Bakuh."
+                    ],
+                    "concepts":{
+                        "#levelsofanalysis":{
+                            "summary": [
+                                "#levelsofanalysis can change scales.",
+                                "#levelsofanalysis can shrink the size of a moth, or even a cell, and grow to a size that it could football with stars.",
+                                "#levelsofanalysis collects auras it finds at each scale it travels to and shapes the auras into necklaces perfect for an insight."
+                            ]
+                        },
+                        "#confidencetuning":{
+                            "summary": [ "#confidencetuning can control light." ]
+                        },
+                        "#composition":{
+                            "summary": [ "#composition can bring objects to their purest state, like cleaning public monuments that had been defaced." ]
+                        },
+                        "#responsibilityframeworks":{
+                            "summary": [ 
+                                "#responsibilityframeworks creates protective shields to get things done.",
+                                "Concepts often see #responsibilityframeworks running with its childhood companion, #purpose."
+                            ]
+                        },
+                        "#breakandreassemble":{
+                            "summary": [ 
+                                "#breakandreassemble can resurrect a dying fish by separating the fish into its organs, spine, and muscles. After reassembling the fish, the fish is revitalized."
+                            ]
+                        },
+                        "#sourcequality":{
+                            "summary": [ 
+                                "#sourcequality can learn a person’s backstory through touch."
+                            ]
+                        },
+                        "#organization":{
+                            "summary":[
+                                "#organization rearranges speech into bubbles that it packs neatly so that the individual can talk more fluently and convince others of what's up."
+                            ]
+                        },
+                        "#connotation":{
+                            "summary":[
+                                "#connotation produces cameras for concepts to take pictures of themselves in context.",
+                                "#connotation's cameras are made by triggering systems called identifying and explaining a relation."
+                            ]
+                        }
+                        
+                },
+                "Foundational Concepts":{
+                    "summary":[
+                        "Foundational Concepts visually resemble the Xenarthra order.",
+                        "Foundational Concepts accumulate ample wisdom."
+                    ],
+                    "concepts":{
+                        "#medium":{
+                            "summary":["#medium can convert text to sound or children's books into gingerbread houses."]
+                        },
+                        "#casestudy":{
+                            "summary":["#casestudy can trap concepts inside a mirror and use that mirror to change how others see the world around them."]
+                        },
+                        "#systemdynamics":{
+                            "summary":["#systemdynamics learned how to bend the wind by watching feedback loops."]
+                        },
+                        "#induction":{
+                            "summary": [ 
+                                "#induction wears tattered clothes.",
+                                "#induction has a sibling called #deduction."
+                            ]
+                        },
+                        "#deduction":{
+                            "summary": [ 
+                                "#deduction wears carefully knitted polyester.",
+                                "#deduction has a sibling called #induction."
+                            ]
+                        },
+                        "#algorithms":{
+                            "summary":[
+                                "#algorithms can transform daily tasks into loops, playing with life as a musician plays with an expressive MIDI pad controller."
+                            ]
+                        },
+                        "#variables":{
+                            "summary":[
+                                "#variables can stop time.",
+                                "When #variables stops time, it can rearrange parts of the world and watch how rearranging things affects the surrounding landscape."
+                            ]
+                        },
+                        "#dataviz":{
+                            "summary":[
+                                "#dataviz can create an “L” with its hand and generate a graph or another visual representation to summarize the information around it.",
+                                "#dataviz is full of tattoos, like one around its eyes, which it called the X and Y axis."
+                            ]
+                        },
+                        "#interventionalstudy":{
+                            "summary":[
+                                "#interventionalstudy can clone itself and time travel.",
+                                "#interventionalstudy worries about the Fundamental Problem of Causal Inference."
+                            ]
+                        },
+                        "#systemmapping":{
+                            "summary":[
+                                "#systemmapping can transform objects to bring out their most distinguishable features.",
+                                "Once, #systemmapping went into a concept's pantry and considered grouping foods by their color, smell, or acidic level. When #systemmapping decided what feature to focus on, #systemmapping transformed the foods so all that was left when the concept opened its pantry was the food’s acidic level."
+                            ]
+                        }
+                    }
+                }
+            }
         },
         "Descriptive Statistics":{
             "summary":["Descriptive Statistics originated somewhere between Mathematics, Uncertainty, and Correlation. Now, they are a band of cousins that like to travel together and sleep on trees."],
