@@ -44,8 +44,25 @@
                 "Concepts call all minerals 'knowledge'.",
                 "Descriptions are puddles that form around Bakuh.",
                 "Arguments are gardens where concepts go on dates, introspect, or live.",
-                "Agreements are gymnosperms.",
-                "Financial vehicles are angiosperms."
+                "Agreements are gymnosperms."
+            ]
+        },
+        "Actively using a concept":{
+            "Exploring": "A concept's term for any kind of movement.",
+            "Thinking": "How concepts move through data.",
+            "Being Curious": "Riding or galloping with a question.",
+            "Practical Applications": {
+                "Practical Applications": "Bakuh's term for 'sports.'",
+                "That is impractical!":"What a concept might say when one does not follow the rules.",
+                "performing a calculation": "a form of yoga",
+                "performing a proof": "tai-chi",
+                "thinking":"swimming"
+            }
+        },
+        "Fictional Worlds":{
+            "summary":[
+                "Concepts write fictional worlds.",
+                "In these fictional worlds, humans are not amorphous characters as they exist in Bakuh. Humans regain their anthropomorphic character."
             ]
         }
     },
@@ -146,6 +163,7 @@
                 "Computer Science":{
                     "Computer Hardware": {
                         "summary": "Computer Hardware is a network of mining shafts that lie below Software Engineering.",
+                        "Ishango":"One of the first cities in Computer Hardware.",
                         "concepts":{
                             "computers":{
                                 "summary":[
@@ -296,27 +314,56 @@
             "territories":{
                 "Economics":{
                     "summary":[ "A territory that spans Politics, Business, and Finance." ],
-                    "OpenHandClosedFist": {
-                        "OpenHandClosedFist": "The study of how concepts develop.",
-                        "Chords": "In Bakuh, concepts pay with chords.",
-                        "Songs": "Songs, or a system of chords, store value. Songs are played in balance sheet equations and are fungible.",
-                        "Instruments": "Instruments act as a contract between two entities in Bakuh.",
-                        "Knowledge's value": "The resonance of chords when bouncing off homogeneous solids.",
-                        "Science of Learning concepts": "Science of Learning concepts keep concepts healthy by studying a concept's cells and encouraging concepts to exercise."
+                    "concepts":{
+                        "economic theories":{
+                            "summary":[
+                                "Economic theories like to travel around Bakuh.",
+                                "Economic theories like to sit at a forest overlooking the skyline of Finance and contemplate."
+                            ],
+                            "classical economics":[
+                                "Ponders how value reflects labor input."
+                            ],
+                            "neoclassical economics":[
+                                "Ponders how value reflects utility output."
+                            ]
                     }
                 }
             },
             "concepts":{
-                "corporations":{
+                "institutions":{
                     "summary":[
-                        "Each corporation is a colony.",
-                        "A colony can have multiple sites where they build their nests.",
-                        "There are different bee roles within a colony. Property, plant, and equipment are one type of bees.",
-                        "A bee's cells are called employees.",
-                        "A colony's accountants are the cells around a bee's abdomen that helps structure the bee nest.",
-                        "A colony's beehive is known as a balance sheet, where they keep assets to one side and liabilities and shareholder's equity to another side.",
-                        "Some schools, banks, and agricultural companies are also bees.",
-                        "Rather than cultivate honey, these bees cultivate tea."
+                        "Institutions are insect-like creatures likes bees, butterflies, or beetles that live in Business."
+                    ]
+                },
+                "laws":{
+                    "summary":[
+                        "Laws create an Institution’s armor."
+                    ]
+                },
+                "companies":{
+                    "summary":[
+                        "Companies are cute ant-like bees that wear colorful fur coats.",
+                        "The fur coats change like chameleons and are stylized by the famous fashion designer, ISO 20671."
+                    ],
+                    "concepts":{
+                        "corporations":{
+                            "summary":[
+                                "A corporation is a type of company.",
+                                "A colony can have multiple sites where they build their nests.",
+                                "A corporation's biological cells are called employees.",
+                                "A corporation's accountants are the cells around a bee's abdomen that helps structure the bee nest.",
+                                "A corporation's beehive is known as a balance sheet, where they keep assets to one side and liabilities and shareholder's equity to another side.",
+                                "Some schools, banks, and agricultural companies are also corporations.",
+                                "Rather than cultivate honey, these bees cultivate tea."
+                            ]
+                        }
+                    }
+                },
+                "standards":{
+                    "summary":[
+                        "A Standard like ISO 20671, is a fairy-like creature made of cloth and water.",
+                        "Standards fly around Bakuh after being raised inside dens that are a cross between a beehive and a vending machine.",
+                        "It wouldn't be a new year without ISO 8601, one of the Standards created by the International Organization for Standardization."
                     ]
                 }
             },
@@ -324,6 +371,20 @@
                 "gross": "an object with a thick crust",
                 "net": "an object with a polished surface"
             },
+            "applications":{
+                "stock trading":{
+                    "summary":[
+                        "The stocks play a game in between soccer and racing.",
+                        "The stocks ride on flying rocks bearing stickers that show the indices each stock is part of.",
+                        "The stadium is made out of sandstone and rather than having a field of artificial grass in the middle, the stadium has a pool of water.",
+                        "The point of the game is to use your whole body to pass a ball through a marble hoop similar to a Mesoamerican ballgame.",
+                        "Each rock is coached by a company.",
+                        "At various points in the game, the company will throw a golden coin into the pool of water people refer to as the earning's call.",
+                        "The coin is the same consistency of honey and once it drops into the water, various spreadsheet fishes and algorithm jellyfish consume it.",
+                        "People in the stands can use binoculars to spot the supply chains that relate each company to one another."
+                    ]
+                }
+            }
             "stories":[
                 {
                     "title":"Marketing Bakuh.",
@@ -361,6 +422,31 @@
                         "Alphabets grow a round tortoise shell inscribed with characters.",
                         "Alphabets like to watch the Brain, imagining how it would be like to play with glial cells."
                     ]
+                },
+                "Languages":{
+                    "summary":[
+                        "Languages are the seamsters who sew clothes worn by concepts.",
+                        "Some say that Languages were the first people of Bakuh. Since then, they have built outposts all around Bakuh.",
+                        "The Languages have an outpost in Mathematics where the Greek language sews a lot of clothes for variables.",
+                        "Most languages live alone in spheroidal huts formed from fallen meteors.",
+                        "Languages sew clothes made out of morphemes glued in a paste made out of glyphs, sounds, and glial cells.",
+                        "Languages communicate with each other through small fireplaces they keep inside their houses. A Language's fireplace is nurtured by History, the dragon who gets recalled, but can't be remembered."
+                    ]
+                },
+                "verbs":{
+                    "summary":[
+                        "Languages keep verbs or prisms made of eggshells in their attics.",
+                        "Languages acquire verbs throughout their life."
+                    ]
+                },
+                "connotations":{
+                    "summary":[
+                        "Languages have contraptions they use to weave clothes.",
+                        "As the contraption moves, it shoots out webs of tiny nebulas called connotations.",
+                        "Knowing how to manage connotation prevents English and other languages to have the naming of one concept interfere with the naming of another concept.",
+                        "Concepts, when woven with the same morphemes, are bound to each other.",
+                        "When light shines on a concept's clothes, the clothes of another concept might shine as well."
+                    ]
                 }
             },
             "territories":{
@@ -392,7 +478,7 @@
                     ]
                 },
                 "functions": {
-                    "summary": [ "Functions are a group of monkeys that carry a water pouch called a domain." ]
+                    "summary": [ "Functions are fish." ]
                 },
                 "stories": [
                     {
@@ -435,18 +521,11 @@
             ]
         },
         "Skill Acquisition":{
-            "Actively using a concept":{
-                "Exploring": "A concept's term for any kind of movement.",
-                "Thinking": "How concepts move through data.",
-                "Being Curious": "Riding or galloping with a question.",
-                "Practical Applications": {
-                    "Practical Applications": "Bakuh's term for 'sports.'",
-                    "That is impractical!":"What a concept might say when one does not follow the rules.",
-                    "performing a calculation": "a form of yoga",
-                    "performing a proof": "tai-chi",
-                    "thinking":"swimming"
-                }
+            "concepts":{
+                "Academic Courses":{
+                    "summary":"Academic courses are platform-like ships flying around Bakuh."
             }
+        }
         },
         "Physics":{
             "summary": [ "A concept knows they're getting close to physics when they see ice covering the rocks."],
@@ -562,24 +641,148 @@
             ]
         },
         "Finance":{
-            "Financial Vehicles": "Angiosperms",
-            "money":{
-                "summary": [
-                    "Money is pollen."
+            "summary": [
+                "Finance is a city where green vines hang from white, marble buildings.",
+                "Depending on their thoughts about the future, financial concepts can morph into bears or bulls.",
+                "Like a bit in Computer Software establishes an opposite but interconnected force, Finance distinguishes these forces as buy versus sell, call versus put, or credit versus debit.",
+                "A lot of concepts in Finance practice aquaponics, using math functions to raise their assets."
+            ],
+            "arbitrage":{
+                "summary":[
+                    "Arbitrage is silver that forms on the walls of Finance.",
+                    "It shouldn't take long for a concept like an arbitrage strategy to scrape the silver off the wall or attach spouts that extract a constant flow of silver."
+                ]
+            },
+            "interest rate":{
+                "summary":[
+                    "The interest rate is engraved on some financial asset seeds.",
+                    "The interest rate affects the rate at which some assets grow."
                 ]
             },
             "concepts":{
+                "risk":{
+                    "summary":[
+                        "Risk is a deity most concepts in Finance respect.",
+                        "Most concepts in Finance help each other manage their relationship with risk.",
+                        "Functions from Mathematics often visit Finance to help assets manage Risk."
+                    ]
+                },
                 "financial models":{
                     "summary":[
                         "Financial models are aquaculturists."
                     ]
                 },
-                "risk":{
+                "portfolio":{
                     "summary":[
-                        "Risk is a bear that morphs into a bull."
+                        "Portfolios are diners for investment strategies."
+                    ],
+                "funds":{
+                    "summary":[
+                        "Aquaponic tanks."
                     ]
+                },
+                "assets":{
+                    "summary":[
+                        "Assets are seeds that live in the Forest of Financial Assets on the outskirts of Finance.",
+                        "Assets can be traded, but they can also be grown.",
+                        "Some institutions pack assets into fruits or cones that they sell to other institutions."
+                    ],
+                    "concepts":{
+                        "cash":{
+                            "summary":[
+                                "Cash is a plant-like creature where its plant would relate to the Poaceae family."
+                            ]
+                        }
+                    }
+                },
+                "currency":{
+                    "summary":[
+                        "Currencies are a cross between bonobo monkeys and O. glaberrima or O. sativa rice.",
+                        "Currencies hang out in an abandoned subway station where they used to have gold thrones."
+                    ]
+                },
+                "money":{
+                    "summary":[
+                        "Money is pollen."
+                    ]
+                },
+                "financial instruments":{
+                    "summary":[
+                        "A financial instrument (or tool) can belong to many groups.",
+                        "Sometimes, financial instruments distinguish themselves by their asset class.",
+                        "As financial concepts grow up, those destined to be called an 'asset' group themselves into asset classes like equity, fixed-income, real estate, commodities, and cash-equivalent asset classes.",
+                        "Other classifications for financial instruments are whether they are debt, equity, or derivatives."
+                    ],
+                    "concepts":{
+                        "financial securities":{
+                            "summary":[
+                                "Financial securities are a type of financial instrument with a contract describing the terms of the trade etched onto their skin.",
+                                "The contract facilitates trading and provides an additional layer of security.",
+                                "Financial securities are regulated by institutions."
+                            ],
+                            "concepts":{
+                                "bonds":{
+                                    "summary":[
+                                        "Bonds grow into fruit trees that drop coupons in intervals.",
+                                        "When the bonds matures, the bond pays back the principal."
+                                    ]
+                                },
+                                "derivatives":{
+                                    "options":{
+                                        "summary":[
+                                            "Options drive chariots, taking other assets for a ride above or below the strike price."
+                                        ]
+                                    },
+                                    "swaps":{
+                                        "summary":[
+                                            "Swaps are tall, metal machines with two legs."
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "financial vehicles":{
+                            "summary":[
+                                "Financial Vehicles likes to run around Finance talking to concepts.",
+                                "Financial Vehicles is interested in how assets get packaged and how the packaging influences how assets move through Finance.",
+                                "Some financial instruments will be described as Financial Vehicles, but that is mostly because Financial Vehicles started publishing too many observations about an instrument's packaging behavior."
+                            ]
+                        }
+                    }
                 }
             }
+            },
+            "stories":[
+                {
+                    "title":"A Timely Distinction",
+                    "story":[
+                        "Equity: 'What if I am more like you than you think?",
+                        "Debt: 'How so?'",
+                        "Equity: 'I also purchased debt."
+                    ]
+                },
+                {
+                    "title":"consumption, investment, spending = Transaction(), Transaction(), Transaction()",
+                    "story":[
+                        "Transactions: 'What if we gave a prize to the country that reaches $0 GDP?",
+                        "GDP: 'Let them govern all other countries.'",
+                        "Transactions (ignoring GDP's sarcasm): 'If I charge my friend for picking up his kids from school, we 'contribute to the economy.''",
+                        "Transactions: 'If the sidewalk charges me for walking on it before noon and pays me to walk on it after noon, I'm 'stimulating the economy.''",
+                        "Transactions: 'It feels that the number of transactions might not signal a strong economy but an inefficient one.'",
+                        "GDP: 'Did GNH put you up to this?'"
+                    ]
+                }
+            ],
+            "fictional worlds":[
+                {
+                    "title":"Estatuas",
+                    "summary":[
+                        "Cualquier estatua alguna vez hecha cobró vida.",
+                        "Las estatuas se dividieron en grupos de acuerdo a su material.",
+                        "Las estatuas de mármol tomaron control."
+                    ]
+                }
+            ]
             }
         },
         "Neuroscience":{
@@ -632,7 +835,16 @@
                                     ]
                                 },
                                 "ideas": "Friction created by moving particles.",
-                                "ideologies": "Glowing orbs that float above puddles."
+                                "ideologies": "Glowing orbs that float above puddles.",
+                                "Art":{
+                                    "summary":[
+                                        "Art used to hang out with judgments. It felt close to aesthetic and value judgment.",
+                                        "Art likes to ride the 'What is' question, often galloping the horse with the pattern, 'What is art?'",
+                                        "When art goes to Finance, it meets with NFT and sees how some museums are doing. care for the museums.",
+                                        "When art goes to Politics, art always meets propaganda for a cup of tea.",
+                                        "Art discovered a group of cells called patrons."
+                                    ]
+                                }
                             },
                             "places":{
                                 "Isms":{
@@ -656,8 +868,10 @@
                 "Science of Learning":{
                     "summary":[ 
                         "Science of Learning is a location off the coast of Neuroscience where concepts like recall and timed practice work.",
-                        "Concepts visit clinics run by Science of Learning concepts to ensure their cells are healthy."
-                    ],
+                        "Concepts visit clinics run by Science of Learning concepts to ensure their cells are healthy.",
+                        "Science of Learning concepts keep concepts healthy by studying a concept's cells and encouraging concepts to exercise."
+                        ]
+                    },
                     "concepts": {
                         "Bloom's Taxonomy":"A concept that measures how well a concept's cells can remember, explain, apply, analyze, evaluate, and create."
                     }
@@ -723,9 +937,7 @@
                 "The HCs are nomads that like to analyze the world around them.",
                 "The HCs are mechanics that wear a necklace with a '#' pendant.",
                 "HCs are both fiercely communal and individualist.",
-                "HCs band in guilds called competencies. The four core competencies are Thinking Creatively, Thinking Critically, Communicating Effectively, and Collaborating Effectively.",
-                "The HCs are known for making applications, or contraptions that allow concepts and their students to nurture, develop, and present ideas.",
-                "The HCs sell their applications at a market. At each stall, the HCs put up a shoe with a sticky-note on the sole of the shoe. This is the label of the application, its footnote."
+                "HCs band in guilds called competencies. The four core competencies are Thinking Creatively, Thinking Critically, Communicating Effectively, and Collaborating Effectively."
             ],
             "concepts":{
                 "Habits of Mind":{
