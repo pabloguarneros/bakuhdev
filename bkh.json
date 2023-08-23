@@ -811,6 +811,22 @@
             "territories":{
                 "Narrative":{
                     "summary": "Narrative is a chain of mountains starting at Neuroscience and winding down toward ●.",
+                    "places":{
+                        "Storyture":{
+                            "summary":[
+                                "Storyture is a town in the mountains.",
+                                "Mediums, Genres, and other storytelling concepts live in Storyture.",
+                                "Concepts in Storyture travel on bicycle. The wheels of each bicycle sound like the flicking of time.",
+                                "For concepts related to a novel, their bicycle's wheels sound like the flipping of pages.",
+                                "The content of stories are fishes, which we can call happenings.",
+                                "There is a market where plots cut happenings into stories, or sushi.",
+                                "Some happenings are taboo to eat.",
+                                "Beside happenings, stories also need rice (money) and mountain vegetables (modes of transmission).",
+                                "All possible stories that could ever be conceived exist in Storyture.",
+                                "Context is cotton candy and is sold in Storyture's central hexagon."
+                            ]
+                        }
+                    },
                     "concepts":{
                         "History":{
                             "summary":[
