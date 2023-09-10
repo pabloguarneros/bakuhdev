@@ -1,6 +1,11 @@
 {
     "name": "Bakuh",
     "summary": [ "A fictional world about nonfictional things." ],
+    "introduction": [
+        "Fiction extended its hand to Nonfiction.",
+        "Nonfiction laughed.",
+        "Fiction was also smiling as it felt the coolness of a mirror."
+    ],
     "titans":{
         "Context": {
             "summary":[
@@ -1159,4 +1164,5 @@
             ]
         }
     ]
+}
 }
